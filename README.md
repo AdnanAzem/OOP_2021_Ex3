@@ -2,10 +2,12 @@
 
 <h2>Ex3 contains the following classes: </h2>
 
-<p>NodeData - representing a vertex in the graph.</p>
-<p>EdgeData - representing a edge in the graph.</p>
-<p>DiGraph- implementing GraphInterface- representing a directed weighted graph.</p>
-<p>GraphAlgo- implementing GraphAlgoInterface interface.</p>
+<ul>
+  <li><b>NodeData</b> - representing a vertex in the graph.</li>
+  <li><b>EdgeData</b> - representing a edge in the graph.</li>
+  <li><b>DiGraph</b>- implementing GraphInterface- representing a directed weighted graph.</li>
+  <li><b>GraphAlgo</b>- implementing GraphAlgoInterface interface.</li>
+</ul>
 
 <hr>
 
@@ -18,13 +20,17 @@ DiGraph class represents a directed weighted graph, represented by a dictionary.
 <hr>
 
 <h2>the basic functions in graph :</h2>
-<p>add node - add a new node to the graph</p>
-<p>add_edge - add a new edge to the graph between two vertices</p>
-<p>get_all v_ - return a dictionary contains all the graph vertices</p>
-<p>remove node - remove a vertex from the graph</p>
-<p>remove edge - remove an edge between two vertices</p>
-<p>all_in_edges_of_node - returns a dictionary of all nodes connected to the given node.</p>
-<p>all_out_edeges_of_node - returns a dictionary of all nodes connected from the given node.</p>
-<p>e_size - return the number of edges in the graph</p>
-<p>v_size - returns the number of vertices in the graph</p>
-<p>get_mc - return the number of changes computed on the graph</p>
+<ul>
+  <li><b>add node</b> - add a new node to the graph</li>
+  <li><b>add_edge</b> - add a new edge to the graph between two vertices</li>
+  <li><b>get_all v</b> - return a dictionary contains all the graph vertices</li>
+  <li><b>remove node</b> - remove a vertex from the graph</li>
+  <li><b>remove edge</b> - remove an edge between two vertices</li>
+  <li><b>all_in_edges_of_node</b> - returns a dictionary of all nodes connected to the given node.</li>
+  <li><b>all_out_edeges_of_node</b> - returns a dictionary of all nodes connected from the given node.</li>
+  <li><b>e_size</b> - return the number of edges in the graph</li>
+  <li><b>v_size</b> - returns the number of vertices in the graph</li>
+  <li><b>get_mc</b> - return the number of changes computed on the graph</li>
+</ul>
+
+
