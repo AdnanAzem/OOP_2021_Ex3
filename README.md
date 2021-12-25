@@ -75,3 +75,8 @@ GraphAlgo class represents the regular Graph Theory algorithms including:
 The algorithm exists in many variants. Dijkstra's original algorithm found the shortest path between two given nodes,[7] but a more common variant fixes a single node as the "source" node and finds shortest paths from the source to all other nodes in the graph,
 
 ![2](https://user-images.githubusercontent.com/88532380/146683804-7c8c4155-0dbc-4195-9dd0-1a925c659eae.gif)
+
+<h2>Part 3:</h2>
+In this part we were required to comparison of runtime of 4 different algorithms(shortest_path, TSP, center, Load & Save) on a directed weighted graph between 2 implementations: our implementation in java (Ex2 project), our implementation in python (this project). The comparisons are in this wiki page project.<br>
+<a href="https://github.com/AdnanAzem/OOP_2021_Ex3/wiki/Comparisons">Click for more informations</a>
+
