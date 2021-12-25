@@ -1,5 +1,6 @@
 # OOP_2021_Ex3
 
+<h2>Part 1:</h2>
 <h2>Ex3 contains the following classes: </h2>
 
 <ul>
@@ -19,6 +20,7 @@ DiGraph class represents a directed weighted graph, represented by a dictionary.
 
 <hr>
 
+<h2>Part 2:</h2>
 <h2>the basic functions in graph :</h2>
 <ul>
   <li><b>add node</b> - add a new node to the graph</li>
