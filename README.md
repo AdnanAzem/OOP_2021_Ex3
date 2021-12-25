@@ -63,12 +63,12 @@ DiGraph class represents a directed weighted graph, represented by a dictionary.
 <h1>Algorithms</h1>
 GraphAlgo class represents the regular Graph Theory algorithms including:
 <ul>
-  <li>__load_from_json(file)</li>
-  <li>__save_to_json(file)</li>
-  <li>__shortestPath(int src, int dest) -> (float, list)</li>
-  <li>__connected_component(node_id) -> list</li>
-  <li>__connected_components() -> List[list]</li>
-  <li>__plot_graph()</li>
+  <li>load_from_json(file)</li>
+  <li>save_to_json(file)</li>
+  <li>shortestPath(int src, int dest) -> (float, list)</li>
+  <li>TSP(self, node_lst: List[int]) -> (List[int], float):</li>
+  <li>centerPoint(self) -> (int, float):</li>
+  <li>plot_graph()</li>
 </ul>
 
 <hr>
