@@ -71,6 +71,14 @@ GraphAlgo class represents the regular Graph Theory algorithms including:
   <li>plot_graph()</li>
 </ul>
 
+examples of graph plot:
+
+check1:<br>
+<img src="https://github.com/AdnanAzem/OOP_2021_Ex3/blob/main/Pictures/check1.png" alt="check1" width="500" height="400">
+
+check2:<br>
+<img src="https://github.com/AdnanAzem/OOP_2021_Ex3/blob/main/Pictures/check2.png" alt="check2" width="500" height="400">
+
 <hr>
 
 <h2>The Dijkstra algorithm</h2>
